@@ -4,7 +4,7 @@ A timeless take on benchmarking LLMs, just like grounding people after waking up
 
 ## Background
 
-Similar to most sci-fi stories, when a crew aboard interstellar vehicles is awakened from stasis, they "have to" start vomiting and need grounding about their location, time, and the status of online/offline systems. I'm halfway through _Alien: Cold Forge_.
+Similar to most sci-fi stories, when a crew aboard interstellar vehicles is awakened from stasis, they "have to" start vomiting and need grounding about their location, time, and the status of online/offline systems. I'm halfway through _Alien: Cold Forge_ where the entire franchise banks on such SOPs.
 
 The same is applicable to LLMs as well, if we are to treat them as cognition engines instead of being relegated as a bunch of stochastic parrots. This also means that benchmarks like [GAIA](https://huggingface.co/papers/2311.12983) & others need to be re-worked from a timeless human's perspective. Where all notion of current space-time, tools available, data sources, localization etc. is jettisoned & needs to be re-introduced/affirmed back to them. 
 
