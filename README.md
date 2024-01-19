@@ -1,8 +1,13 @@
 # Stasis
 
-_A timeless take on benchmarking LLMs, just like grounding people after waking up from stasis in deep space_
+<p align="center"><i>
+A timeless take on benchmarking LLMs, just like grounding people after waking up from stasis in deep space
+</i>
+</p>
+<p align="center">
+<img src="prometheus-crew-awakened.png" alt="prometheus-crew-awakened" width="500"/>
 
-![](prometheus-crew-awakened.png)
+</p>
 
 ## Background
 
